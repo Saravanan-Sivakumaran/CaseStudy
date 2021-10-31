@@ -32,3 +32,9 @@ There are 2 test cases under the trivago suite:
 
 1. Verify Search Results 
 2. Verify Featured Hotels
+
+Trigger the Robot frame suite 
+
+1. The first test case would verify if the search results are displayed correctly.
+2. The second test case ensures that whether the list of 'featured hotels and resorts' displays all hotels featured in the article it also ensures that there are no broken links in the article.
+
