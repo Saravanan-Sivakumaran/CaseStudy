@@ -32,9 +32,3 @@ There are 2 test cases under the trivago suite:
 
 1. Verify Search Results 
 2. Verify Featured Hotels
-
-
-
-File - New Project - Trivagos
-
-Depending upon the IDE that you are using import the 
