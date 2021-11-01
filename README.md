@@ -20,7 +20,7 @@ Libraries:
 
 Step 2:
 ************
-2. Download the Trivago.Zip folder and extract the same.
+2. Download the CaseStudy-main.Zip folder and extract the same.
 
 Step 3:
 ************
